@@ -32,15 +32,39 @@ const HomePage = () => {
         <br />
         <div className="row g-3">
             <div className="col col-12 col-sm-12 col-md-12 col-lg-12 col-xl-12 col-xxl-12">
-                <h2>Purpose and Features</h2>
-                <p>The Kochi Metro, launched to tackle the growing urban challenges in Kochi, serves as a multifaceted solution aimed at transforming the city's transportation landscape and enhancing the quality of life for its residents. Its primary purpose is to alleviate severe traffic congestion by providing a reliable, efficient, and comfortable public transportation alternative to private vehicles, thus encouraging a shift towards public transit. This shift not only helps reduce road congestion but also significantly lowers air pollution and greenhouse gas emissions, contributing to a healthier and more sustainable urban environment. The metro system is designed to spur economic growth by improving connectivity, which facilitates smoother commutes, boosts productivity, and attracts investments, thereby fostering urban development along its corridors. One of the standout features of the Kochi Metro is its emphasis on inclusivity and accessibility, with facilities specifically designed to cater to people with disabilities, the elderly, and other mobility-impaired individuals, ensuring that the benefits of the metro are accessible to all segments of the population.</p>
-                <p>The Kochi Metro also plays a crucial role in enhancing urban mobility by drastically cutting down travel time, which has a direct positive impact on the daily lives of commuters. The system is known for its state-of-the-art technology, including advanced signaling and communication systems that ensure safety and efficiency. The metro's trains are equipped with modern amenities such as air conditioning, Wi-Fi, and ergonomic seating, providing a comfortable travel experience. Additionally, the stations are equipped with various commuter-friendly features like escalators, elevators, ticket vending machines, and digital information displays, all designed to facilitate a smooth and hassle-free commuting experience. The Kochi Metro also integrates seamlessly with other modes of transportation, including buses and ferries, creating a comprehensive and interconnected public transport network.</p>
-                <p>Environmental sustainability is a core focus of the Kochi Metro, which is evident in its use of solar power to meet a significant portion of its energy needs, thus reducing its carbon footprint. The system also incorporates green building practices in the construction of its stations and other infrastructure, emphasizing energy efficiency and environmental stewardship. Moreover, the Kochi Metro is not just a transportation project but also a social initiative, with several programs aimed at community engagement and development. This includes employing members of the transgender community, making it the first metro in India to do so, thereby promoting social inclusiveness and diversity.</p>
-                <p>Furthermore, the Kochi Metro significantly boosts tourism by providing an efficient and convenient means for tourists to explore the city's attractions. The system's design incorporates elements of local culture and heritage, with each station featuring artwork and themes that reflect the rich cultural tapestry of Kerala, enhancing the travel experience for both residents and visitors. Overall, the Kochi Metro exemplifies a forward-thinking approach to urban planning, addressing immediate transportation needs while laying the groundwork for sustainable, inclusive, and economically vibrant urban growth. It underscores a commitment to modernizing Kochi's infrastructure in a manner that balances environmental sustainability with socio-economic benefits, making the city more livable and attractive to both residents and tourists alike.</p>
+               <p>Welcome to the Kochi Metro App, your ultimate companion for a seamless and efficient travel experience on the Kochi Metro. Designed with your convenience in mind, our app brings you a range of features to make your journey smoother, faster, and more enjoyable. From real-time updates and journey planning tools to easy ticket purchases and station information, everything you need is at your fingertips. Join us in revolutionizing urban commuting with a smart, user-friendly platform that keeps you connected and informed every step of the way. Embrace a new era of travel with the Kochi Metro App and discover a world of effortless mobility</p>
             </div>
             
         </div>
-      </div>
+        <br />
+        <div className="row">
+          <div className="col col-12 col-sm-4 col-md-4 col-lg-4 col-xl-4 col-xxl-4">
+          <div class="card">
+  <img src="https://assets-news.housing.com/news/wp-content/uploads/2021/06/22175706/1024px-Kochi-metro-route-map.jpg" class="card-img-top" alt="..."/>
+  <div class="card-body">
+    <h5 class="card-title">Route map</h5>
+   
+  </div>
+</div>
+          </div>
+          <div className="col col-12 col-sm-4 col-md-4 col-lg-4 col-xl-4 col-xxl-4"></div>
+          <div className="col col-12 col-sm-4 col-md-4 col-lg-4 col-xl-4 col-xxl-4">
+          <div class="card">
+  <img src="http://img.etimg.com/thumb/msid-57618714,width-672,resizemode-4,imglength-628356/industry/transportation/railways/kochi-metros-first-phase-inauguration-in-april-this-year/kochi-metro.jpg" class="card-img-top" alt="..."/>
+  <div class="card-body">
+   
+  </div>
+</div>
+          </div>
+        </div>
+        <br />
+        <div className="row">
+          <div className="col col-12 col-sm-12 col-md-12 col-lg-12 col-xl-12 col-xxl-12">
+            <h3>Purpose and Features</h3>
+            <p>The purpose of the Kochi Metro app is to enhance the commuting experience by providing a convenient, efficient, and user-friendly platform for accessing a range of metro-related services and information. Key features of the app include a journey planner for optimal route finding, real-time updates on train schedules and service disruptions, and an integrated ticketing system supporting various payment methods for a seamless, cashless experience. Users can recharge metro cards, manage passes, and access detailed station information, facilitating easier navigation of the metro system. Comprehensive route maps, schedules, and push notifications keep commuters well-informed, while in-app customer support ensures responsive assistance. The app supports multiple languages to cater to Kochi's diverse population and integrates information about other transport modes, providing a holistic view of public transport options. Through these features, the Kochi Metro app aims to improve customer satisfaction, promote the use of public transportation, and enhance the overall efficiency of the metro system.</p>
+          </div>
+        </div>
+       </div> 
     </div>
   )
 }
